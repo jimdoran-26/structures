@@ -1,0 +1,29 @@
+What is Web services?
+-servers that you are accessing (cloud)
+-app sends request, server sends response
+-servlet sends in XML/JSON
+-send a java object in JSON
+
+what is API?
+-connect you to the server
+-how does server know who you are
+
+
+What is REST API?
+-sending state of an object
+-representational state of an object (as JSON)
+-send request as url
+-what you are fetching is a resource
+
+How REST works?
+-fetching data as it is
+-don't care about what is happening on server
+-CRUD =
+    Create = POST
+    Read   = GET
+    Update = PUT
+    Delete = DELETE
+
+Implementation of REST API?
+-jersey
+-Sparing
